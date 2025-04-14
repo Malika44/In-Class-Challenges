@@ -1,5 +1,6 @@
 # In-Class-Challenges
 Here I'm going to share the solution of all in class Challenges 
+
 D1-In class challenge is Translating the Algorithm to pseudocode for the following Problem Statement:
 
 • You have the choice of buying two cars.
