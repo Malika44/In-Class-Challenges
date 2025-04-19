@@ -12,3 +12,6 @@ D1-In class challenge is Translating the Algorithm to pseudocode for the followi
 • You plan to keep the car for ten years.
 
 • Which car is the better deal?
+
+D5:Web scraping with Python is a powerful way to extract data from websites. 
+provided the code to  help you get started with web scraping using Python
