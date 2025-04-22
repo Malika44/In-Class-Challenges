@@ -1,0 +1,9 @@
+Step 1: Initialize a dictionary frequency with keys from 1 to 6 (representing die face values), and set each value to 0.
+
+Step 2: Loop through each number in the input list rolls:
+
+If the number is between 1 and 6 (inclusive), increment its count in the frequency dictionary.
+
+If the number is not between 1 and 6, print a warning message indicating an invalid die roll.
+
+Step 3: After processing all rolls, print the frequency of each die face from 1 to 6 in a formatted output.
